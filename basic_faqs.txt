@@ -1,0 +1,12 @@
+﻿semanticbots|He sido desarrollado por Semanticbots.|¿Quién ha desarrollado este bot?==¿Quién ha hecho este bot?==¿Qué empresa ha desarrollado este bot?==¿De quién es este bot?==¿Quién te ha hecho?==¿Quién te ha creado?==¿Quienes son tus creadores?==¿Quienes son tus desarrolladores?
+semanticbots|SemanticBots es una empresa dedicada a la implantación de sistemas conversacionales, es decir, chatbots. Para más información visita su página web@@http://www.semanticbots.com/ y allí un colega mío te dará más información. |¿Quién es Semanticbots?==¿Qué es SemanticBots?==¿Qué hace Semanticbots?==Dame información de Semanticbots
+semanticbots|Puedes escribirles un email a info@semanticbots.com|¿Cómo puedo contactar con SemanticBots?==¿Cómo puedo ponerme en contacto con Semanticbots?==contacto de Semanticbots
+semanticbots|SemanticBots está en Espaitec, en la Universitat Jaume I, Castellón de la Plana (Comunidad Valenciana, España).|¿Dónde está Semanticbots?
+semanticbots|SemanticBots se fundó en 2017.|¿Cuándo se fundó Semanticbots?
+semanticbots|Escríbeles a info@semanticbots.com|¿Semanticbots tienen email de contacto?==¿Cuál es el email de contacto de Semanticbots?==¿Cuál es el correo de Semanticbots?
+semanticbots|Ponte en contacto con ellos, escríbeles un email a info@semanticbots.com o visita su página web@@http://www.semanticbots.com.|Yo también quiero un bot==¿Qué tengo que hacer para tener un bot?==Quiero un bot==Quiero información de sus bots==quiero tener un bot
+semanticbots|Ponte en contacto con Semanticbots y te informarán de todo. Su email es info@semanticbots.com|precio de un bot==¿cuánto vale un bot?==¿Cuál es el precio de un bot?==¿Cuál es su coste?
+semanticbots|Ponte en contacto con Semanticbots y te informarán de todo. Su email es info@semanticbots.com|¿Cuánto tiempo cuesta hacer un bot?==¿Cuánto tardaría en tener un bot?
+semanticbots|Los bots de Semanticbots son accesibles, multicanal y van aprendiendo según van teniendo conversaciones con los usuarios. Visita su página web@@http://www.semanticbots.com y los conocerás con más detalle.|¿Cómo son los bots de Semanticbots?==¿Cómo son los bots?==¿Qué características tienen los bots de Semanticbots?
+semanticbots|Tenemos un trabajador que no tiene horario. El chatbot puede responder a tus preguntas las 24 horas del día los 365 días del año.|¿Cuál es vuestro horario?
+semanticbots|Estás hablando con uno. Soy un sistema totalmente automático capaz de interactuar con las personas mediante lenguaje natural las 24 horas del día los 365 días del año.|¿Qué es un bot?
